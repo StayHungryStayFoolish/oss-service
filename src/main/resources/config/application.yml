@@ -108,4 +108,17 @@ jhipster:
 # https://www.jhipster.tech/common-application-properties/
 # ===================================================================
 
-# application:
+application:
+    oss:
+        type:
+        a-li-yun:
+            accessKey:
+            secretKey:
+            endpoint:
+            bucket:
+            aliPackage:
+        aws:
+            awsAccessId:
+            awsSecretKey:
+            awsBucket:
+            awsPackage:
